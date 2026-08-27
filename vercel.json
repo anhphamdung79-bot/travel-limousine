@@ -1,0 +1,10 @@
+{
+  "name": "Du Lịch Đường Dài Travel",
+  "version": 1.0,
+  "buildCommand": "echo 'No build required'",
+  "outputDirectory": ".",
+  "framework": "static",
+  "env": {
+    "NEXT_PUBLIC_HOTLINE": "0907546828"
+  }
+}
